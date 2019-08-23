@@ -1,7 +1,0 @@
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\bin\Debug\TcKimlikNoKontrol.exe.config
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\bin\Debug\TcKimlikNoKontrol.exe
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\bin\Debug\TcKimlikNoKontrol.pdb
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\obj\Debug\TcKimlikNoKontrol.csprojAssemblyReference.cache
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\obj\Debug\TcKimlikNoKontrol.csproj.CoreCompileInputs.cache
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\obj\Debug\TcKimlikNoKontrol.exe
-C:\Users\Tunahan\Desktop\C#\TcKimlikNoKontrol\TcKimlikNoKontrol\obj\Debug\TcKimlikNoKontrol.pdb
